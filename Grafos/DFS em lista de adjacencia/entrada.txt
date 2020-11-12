@@ -1,0 +1,14 @@
+6 7
+A
+D
+C
+B
+F
+E
+BC
+CD
+ED
+EF
+FC
+AB
+DF
